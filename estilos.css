@@ -115,7 +115,7 @@ header a:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../page/imagenes/ingles.jpg);
+    ,url(../imagenes/ingles.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center center;
@@ -190,7 +190,7 @@ header a:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../page/imagenes/profe1b.jpg);
+    ,url(../imagenes/profe1b.jpg);
  
 }
 
@@ -200,7 +200,7 @@ header a:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../page/imagenes/profe2.jpg);
+    ,url(../imagenes/profe2.jpg);
     
 
 }
@@ -211,7 +211,7 @@ header a:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../page/imagenes/profe3b.jpg);
+    ,url(../imagenes/profe3b.jpg);
 
 }
 
