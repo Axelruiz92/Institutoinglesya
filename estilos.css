@@ -320,6 +320,10 @@ footer .container {
         background-size: cover;
         height: 600px;
     }
+    
+    #hero button {
+        font-size: 3.5vw; 
+    }
 
     /* SOMOS INGLES YA*/
 
