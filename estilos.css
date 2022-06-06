@@ -318,7 +318,7 @@ footer .container {
     #hero {
         background-position:initial;
         background-size: cover;
-        height: 600px;
+        height: 620px;
     }
     
     #hero button {
@@ -330,7 +330,7 @@ footer .container {
     #somos-ingles {
         background-color: aliceblue;
         display: flex;
-        height: 580px;
+        height: 620px;
         justify-content: center;     /* Posiciona todos los elementos hacia el centro*/
 
         
@@ -358,8 +358,8 @@ footer .container {
      /* NUESTROS PROGRAMAS*/
 
      #nuestros-programas {
-         height: 620px;
-         padding-top: 0px;
+         height: 630px;
+         padding-top: 20px;
      }
 
      #nuestros-programas .programas{
@@ -398,7 +398,7 @@ footer .container {
         flex-direction: row;
         align-items: center;
         background-color: aliceblue;
-        height: 600px;
+        height: 625px;
      }
 
      #caracteristicas .container {
