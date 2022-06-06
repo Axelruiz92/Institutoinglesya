@@ -318,7 +318,7 @@ footer .container {
     #hero {
         background-position:initial;
         background-size: cover;
-        height: 620px;
+        height: 625px;
     }
     
     #hero button {
@@ -330,7 +330,7 @@ footer .container {
     #somos-ingles {
         background-color: aliceblue;
         display: flex;
-        height: 620px;
+        height: 625px;
         justify-content: center;     /* Posiciona todos los elementos hacia el centro*/
 
         
