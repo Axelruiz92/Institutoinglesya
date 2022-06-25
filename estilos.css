@@ -34,6 +34,7 @@ li {font-size: 1.2em;}
 
 #hero button:hover {
     background-color: rgb(72, 8, 137);
+    cursor:pointer
 }
 
 button {
@@ -49,6 +50,7 @@ button {
 
 button:hover {
     background-color: rgb(72, 8, 137);
+    cursor:pointer
 }
 
 /* FIN EDITS DE BOTONES */
@@ -267,6 +269,9 @@ font-size: 9vw;
 #final button {
     font-size: 4vw;
 }
+
+#final button:hover {
+    cursor:pointer}
 
 footer {
     background-color: rgb(255, 255, 255);
